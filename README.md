@@ -1,2 +1,3 @@
 # INSTA-CLONE
- Clone do Instagram 
+ Clone do Instagram com REACT e FIREBASE
+ 
